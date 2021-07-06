@@ -34,7 +34,7 @@ public class SwaggerConfig {
     private ApiInfo metaInfo() {
 
         ApiInfo apiInfo = new ApiInfo(
-                "Produtos API REST",
+                "O PAI TA ON | Produtos API REST",
                 "API REST de cadastro de produtos.",
                 "1.0",
                 "Terms of Service",
